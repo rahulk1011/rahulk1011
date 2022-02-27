@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Drupal
-- - 📫 How to reach me: https://www.linkedin.com/in/rahul-khan-1011/
+- 📫 How to reach me: https://www.linkedin.com/in/rahul-khan-1011/
 
 <!--
 **rahulk1011/rahulk1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
